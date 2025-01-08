@@ -1,3 +1,4 @@
 ## Amazon_project_SQl
-# Amazon Sales Analysis Projec
- ![Banner Image]("![amazon_india_wide_image-3](https://github.com/user-attachments/assets/cc74e297-3305-4983-8c3b-b9a97d7a8635)")
+# Amazon Sales Analysis Project
+![AMAZON ERD]{"![amazon_india_wide_image-3](https://github.com/user-attachments/assets/84478561-74e6-48ea-80e3-0c0b0042da38)
+"}
